@@ -1,4 +1,5 @@
 # vatSys Centrepoint Plugin
+A vatSys plugin which allows fine control over the movement of the air & ground window viewports.
 
 Adds **Tools → Edit View Centrepoint** to the main air display, secondary air displays and ground windows.
 
