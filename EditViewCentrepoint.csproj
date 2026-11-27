@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>EditViewCentrepoint</AssemblyName>
+    <RootNamespace>EditViewCentrepoint</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <Version>0.1.0</Version>
+    <!-- Change this if vatSys.exe lives somewhere else on your machine -->
+    <VatSysDir Condition="'$(VatSysDir)' == ''">C:\Program Files (x86)\vatSys\bin</VatSysDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="vatSys">
+      <HintPath>$(VatSysDir)\vatSys.exe</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+  </ItemGroup>
+
+</Project>

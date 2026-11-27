@@ -1,0 +1,9 @@
+C:\Users\Matt\Downloads\files\bin\Release\net48\EditViewCentrepoint.dll
+C:\Users\Matt\Downloads\files\bin\Release\net48\EditViewCentrepoint.pdb
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.csproj.AssemblyReference.cache
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.AssemblyInfoInputs.cache
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.AssemblyInfo.cs
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.dll
+C:\Users\Matt\Downloads\files\obj\Release\net48\EditViewCentrepoint.pdb
